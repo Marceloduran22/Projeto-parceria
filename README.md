@@ -2,10 +2,9 @@
 
 ---
 
-# [**Profissão: Cientista de Dados**](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados)
-### [**Projeto #01** | Credit-score](https://github.com/rhatiro/Credit-score/blob/main/Projeto%2001%20-%20Classificacao%20de%20credito%20-%20Roberto%20Hatiro.ipynb)
+# [**Profissão: Cientista de Dados**](https://github.com/Marceloduran22)
 
-**Por:** [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
+**Por:** Marcelo Duran<br>
 <!-- **Data:** 17 de abril de 2023.<br> -->
 <!-- **Última atualização:** 17 de abril de 2023. -->
 
