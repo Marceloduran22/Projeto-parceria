@@ -11,12 +11,12 @@
 ---
 
 
-Repositório referente ao **primeiro projeto** do curso [Profissão: Cientista de Dados](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Mo%CC%81dulo%2008%20-%20Git%20:%20GitHub%20-%20Controle%20de%20versionamento), realizado pela EBAC.
+Repositório referente ao **primeiro projeto** do curso [Profissão: Cientista de Dados](https://github.com/Marceloduran22/Projeto-parceria), realizado pela EBAC.
 
 
 ---
 
-## [Dataset](https://raw.githubusercontent.com/rhatiro/Credit-score/main/demo01.csv)
+## [Dataset]
 
 ### Dicionário de dados
 
